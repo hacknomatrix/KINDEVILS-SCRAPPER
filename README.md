@@ -21,4 +21,4 @@ it will first check if the number is banned or fine then it will ask for the lin
 
 
 if it shows this error then your account get restricted 
-IF YOU GET ANY OTHER ERROR MAKE SURE TO COME https://t.me/kindevils and ask @realzed for erros
+IF YOU GET ANY OTHER ERROR MAKE SURE TO COME https://t.me/kindevils and ask @realzed for errors
