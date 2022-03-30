@@ -18,5 +18,7 @@ it will first check if the number is banned or fine then it will ask for the lin
 
 # ERRORS
 ![image](https://user-images.githubusercontent.com/100993071/160759542-37d32f91-0990-47b2-a595-ec6db7b5cf04.png)
+
+
 if it shows this error then your account get restricted 
 IF YOU GET ANY OTHER ERROR MAKE SURE TO COME t.me/kindevils and ask @realzed for erros
