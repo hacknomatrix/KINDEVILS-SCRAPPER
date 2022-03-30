@@ -9,7 +9,7 @@ i. WINDOWS - https://www.python.org/downloads/
 ii. LINUX - open terminal and type sudo apt install python or if you are in termux then simply apt install python or pkg install python
 iii. MAC - https://www.python.org/ftp/python/3.10.4/python-3.10.4-macos11.pkg
 
-3.OPEN SETUP.PY if it doesnt open try install coloroma and telethon from cmd by command pip install cloroma and pip install telethon or contact t.me/kindevils
+3.OPEN SETUP.PY if it doesnt open try install coloroma and telethon from cmd by command pip install cloroma and pip install telethon or contact https://t.me/kindevils
 
 4. AFTER THAT open MANAGER.py it will ask to add some telegram accounts because they are required to scrap. 
 ![image](https://user-images.githubusercontent.com/100993071/160759222-94cf78a6-07ab-406c-bdda-f3e139a5ee1b.png)
@@ -21,4 +21,4 @@ it will first check if the number is banned or fine then it will ask for the lin
 
 
 if it shows this error then your account get restricted 
-IF YOU GET ANY OTHER ERROR MAKE SURE TO COME t.me/kindevils and ask @realzed for erros
+IF YOU GET ANY OTHER ERROR MAKE SURE TO COME https://t.me/kindevils and ask @realzed for erros
