@@ -19,6 +19,8 @@ ye = Fore.LIGHTGREEN_EX
 gr = Fore.LIGHTGREEN_EX
 colors = [lg, lg, lg, lg, lg, lg]
 
+os.makedirs("sessions")
+
 try:
     import requests
 except ImportError:
